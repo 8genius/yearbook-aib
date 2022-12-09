@@ -4,7 +4,7 @@
       <h1 class="text-pink-400 text-4xl font-bold text-center">Yearbook 8G</h1>
       <h2 class="text-center text-gray-500 dark:text-gray-400">(tapi aib)</h2>
     </div>
-    <div class="md:flex flex-col gap-y-4 hidden">
+    <div class="md:flex flex-col gap-y-8 hidden">
       <div class="flex flex-col gap-y-1">
         <div class="grid grid-cols-9 gap-4">
           <img
