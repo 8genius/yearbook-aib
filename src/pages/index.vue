@@ -10,47 +10,47 @@
           <img
             src="../assets/img/amanda.png"
             alt="A picture of Amanda"
-            class="w-32 h-32 rounded-xl mb-2"
+            class="w-32 h-32 rounded-xl mb-2 mx-auto"
           />
           <img
             src="../assets/img/anastasia.png"
             alt="A picture of Anastasia"
-            class="w-32 h-32 rounded-xl mb-2"
+            class="w-32 h-32 rounded-xl mb-2 mx-auto"
           />
           <img
             src="../assets/img/berry.png"
             alt="A picture of Berry"
-            class="w-32 h-32 rounded-xl mb-2"
+            class="w-32 h-32 rounded-xl mb-2 mx-auto"
           />
           <img
             src="../assets/img/carmen.png"
             alt="A picture of Carmen"
-            class="w-32 h-32 rounded-xl mb-2"
+            class="w-32 h-32 rounded-xl mb-2 mx-auto"
           />
           <img
             src="../assets/img/carissa.png"
             alt="A picture of Carissa"
-            class="w-32 h-32 rounded-xl mb-2"
+            class="w-32 h-32 rounded-xl mb-2 mx-auto"
           />
           <img
             src="../assets/img/cedric.png"
             alt="A picture of Cedric"
-            class="w-32 h-32 rounded-xl mb-2"
+            class="w-32 h-32 rounded-xl mb-2 mx-auto"
           />
           <img
             src="../assets/img/davenli.png"
             alt="A picture of Davenli"
-            class="w-32 h-32 rounded-xl mb-2"
+            class="w-32 h-32 rounded-xl mb-2 mx-auto"
           />
           <img
             src="../assets/img/emily.png"
             alt="A picture of Emily"
-            class="w-32 h-32 rounded-xl mb-2"
+            class="w-32 h-32 rounded-xl mb-2 mx-auto"
           />
           <img
             src="../assets/img/evan.png"
             alt="A picture of Evan"
-            class="w-32 h-32 rounded-xl mb-2"
+            class="w-32 h-32 rounded-xl mb-2 mx-auto"
           />
         </div>
         <div
@@ -99,47 +99,47 @@
           <img
             src="../assets/img/gerald.png"
             alt="A picture of Gerald"
-            class="w-32 h-32 rounded-xl mb-2"
+            class="w-32 h-32 rounded-xl mb-2 mx-auto"
           />
           <img
             src="../assets/img/glenn.png"
             alt="A picture of Glenn"
-            class="w-32 h-32 rounded-xl mb-2"
+            class="w-32 h-32 rounded-xl mb-2 mx-auto"
           />
           <img
             src="../assets/img/jason.png"
             alt="A picture of Jason"
-            class="w-32 h-32 rounded-xl mb-2"
+            class="w-32 h-32 rounded-xl mb-2 mx-auto"
           />
           <img
             src="../assets/img/jennifer.png"
             alt="A picture of Jennifer"
-            class="w-32 h-32 rounded-xl mb-2"
+            class="w-32 h-32 rounded-xl mb-2 mx-auto"
           />
           <img
             src="../assets/img/jill.png"
             alt="A picture of Jill"
-            class="w-32 h-32 rounded-xl mb-2"
+            class="w-32 h-32 rounded-xl mb-2 mx-auto"
           />
           <img
             src="../assets/img/jocelyn.png"
             alt="A picture of Jocelyn"
-            class="w-32 h-32 rounded-xl mb-2"
+            class="w-32 h-32 rounded-xl mb-2 mx-auto"
           />
           <img
             src="../assets/img/jonathan.png"
             alt="A picture of Jonathan"
-            class="w-32 h-32 rounded-xl mb-2"
+            class="w-32 h-32 rounded-xl mb-2 mx-auto"
           />
           <img
             src="../assets/img/kathy.png"
             alt="A picture of Kathy"
-            class="w-32 h-32 rounded-xl mb-2"
+            class="w-32 h-32 rounded-xl mb-2 mx-auto"
           />
           <img
             src="../assets/img/keanu.png"
             alt="A picture of Keanu"
-            class="w-32 h-32 rounded-xl mb-2"
+            class="w-32 h-32 rounded-xl mb-2 mx-auto"
           />
         </div>
         <div
@@ -188,47 +188,47 @@
           <img
             src="../assets/img/lionel.png"
             alt="A picture of Lionel"
-            class="w-32 h-32 rounded-xl mb-2"
+            class="w-32 h-32 rounded-xl mb-2 mx-auto"
           />
           <img
             src="../assets/img/melvern.png"
             alt="A picture of Melvern"
-            class="w-32 h-32 rounded-xl mb-2"
+            class="w-32 h-32 rounded-xl mb-2 mx-auto"
           />
           <img
             src="../assets/img/micheal.png"
             alt="A picture of Micheal"
-            class="w-32 h-32 rounded-xl mb-2"
+            class="w-32 h-32 rounded-xl mb-2 mx-auto"
           />
           <img
             src="../assets/img/millian.png"
             alt="A picture of Millian"
-            class="w-32 h-32 rounded-xl mb-2"
+            class="w-32 h-32 rounded-xl mb-2 mx-auto"
           />
           <img
             src="../assets/img/nadine.png"
             alt="A picture of Nadine"
-            class="w-32 h-32 rounded-xl mb-2"
+            class="w-32 h-32 rounded-xl mb-2 mx-auto"
           />
           <img
             src="../assets/img/nathan.png"
             alt="A picture of Nathan"
-            class="w-32 h-32 rounded-xl mb-2"
+            class="w-32 h-32 rounded-xl mb-2 mx-auto"
           />
           <img
             src="../assets/img/rachel.png"
             alt="A picture of Rachel"
-            class="w-32 h-32 rounded-xl mb-2"
+            class="w-32 h-32 rounded-xl mb-2 mx-auto"
           />
           <img
             src="../assets/img/sergio.png"
             alt="A picture of Sergio"
-            class="w-32 h-32 rounded-xl mb-2"
+            class="w-32 h-32 rounded-xl mb-2 mx-auto"
           />
           <img
             src="../assets/img/shaylynn.png"
             alt="A picture of Shaylynn"
-            class="w-32 h-32 rounded-xl mb-2"
+            class="w-32 h-32 rounded-xl mb-2 mx-auto"
           />
         </div>
         <div
