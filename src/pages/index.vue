@@ -67,7 +67,7 @@
           <h4 class="text-lg">"Cinta"</h4>
           <h4 class="text-lg">"Ber"</h4>
           <h4 class="text-lg">"Memen"</h4>
-          <h4 class="text-lg">"Car"</h4>
+          <h4 class="text-lg">"Cipeng"</h4>
           <h4 class="text-lg">"Ced"</h4>
           <h4 class="text-lg">"Dave"</h4>
           <h4 class="text-lg">"Mimi"</h4>
@@ -332,7 +332,7 @@
             class="w-24 h-24 rounded-xl mb-2"
           />
           <div class="flex flex-col gap-y-1">
-            <h4 class="text-2xl text-pink-400 font-bold">"Car"</h4>
+            <h4 class="text-2xl text-pink-400 font-bold">"Cipeng"</h4>
             <h4 class="dark:text-gray-300 text-gray-600">jadi kuntilanak</h4>
           </div>
         </div>
