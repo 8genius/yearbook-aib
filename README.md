@@ -1,16 +1,9 @@
-# vue-template
-a clean template for your vue projects, featuring tailwindcss and a pages directory
+# 8genius/yearbook-aib
+galeri penuh aib-aib siswa 8g lol
 
-## does this even need a readme?
-that's pretty much it, a simple vue template, featuring tailwindcss and vite-plugin-pages
+itu doang sih
 
-### tailwindcss
-tailwindcss handles your styling and works alongside postcss, recommended to use tailwindcss intellisense and prettier
-
-### vite-plugin-pages
-handles all routing in the `/pages` directory, so you don't have to. say goodbye to manual routing!
-
-## recommended ide setup:
+## setup ide
 ### visual studio code
 * prettier
 * tailwindcss intellisense
